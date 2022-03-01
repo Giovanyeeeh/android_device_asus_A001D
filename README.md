@@ -1,8 +1,7 @@
 # DEVICE TREE FOR A001D(ZB634KL)
 Asus Zenfone MaxShot/PlusM2/ShotPlus 
 
-Yes, this is the worst device you will find today!!
-A device so crap that it was abandoned by Asus.
+Bad phone.
 
 ## Device specifications
 
