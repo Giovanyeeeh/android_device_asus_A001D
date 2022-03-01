@@ -213,6 +213,11 @@ persist.vendor.cne.logging.qxdm=3974
 PRODUCT_PROPERTY_OVERRIDES += \
 persist.rcs.supported=1
 
+# SoC
+PRODUCT_PROPERTY_OVERRIDES += \
+ro.soc.manufacturer=Qualcomm \
+ro.soc.model=MSM8953
+
 # SurfaceFlinger
 PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
 ro.surface_flinger.protected_contents=true
